@@ -159,3 +159,6 @@ This lab demonstrates how a single misconfigured IAM permission can lead to full
 
 ## 🧪 Branch test update
 This change was made in a feature branch.
+
+## 🔥 Second update from branch
+Testing pull request workflow properly
